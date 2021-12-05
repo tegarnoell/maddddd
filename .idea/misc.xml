@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/drawable/rectangle.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/drawable/round.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/drawable/roundbutton.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/drawable/roundgreen.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout-land/activity_splashscreen.xml" value="0.17724867724867724" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_dasaratacard.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_janakacard.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_kosalyacard.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_laksmanacard.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menu2.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menu3.xml" value="0.17" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menu4.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menucards1.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menucards2.xml" value="0.16" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menucards3.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_menucards4.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_ramacard.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_shintacard.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_splashscreen.xml" value="0.209375" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage1.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage110.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage111.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage12.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage13.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage14.xml" value="0.2" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage15.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage16.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage17.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage18.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage19.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage1benar.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage1benarselanjutnya.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage1salah.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage1unlockedcard.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage2.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage22.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage23.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage24.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage25.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage26.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage27.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage28.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage29.xml" value="0.22" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage2benar.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage2salah.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage2unlockedcard.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage3.xml" value="0.21" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage310.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage311.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage312.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage313.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage314.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage315.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage32.xml" value="0.21" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage33.xml" value="0.21" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage34.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage35.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage36.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage37.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage38.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage39.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage3benar.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage3salah.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_stage3unlockedcard.xml" value="0.12952898550724637" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/activity_sumitracard.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertdialog.xml" value="0.25" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertdialogmenu2.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertdialogmenu3.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertsebelum.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertsetelah.xml" value="0.33" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertsetelahmenu2.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/layout/alertsetelahmenu3.xml" value="0.15534420289855072" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/SU - NB0214/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

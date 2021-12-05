@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Angulandara</string>
+    <string name="please">Masukkan Nama</string>
+
+    <!--Percakapan 1 -->
+    <string name="satu">Hiduplah seorang raja bernama Prabu Dasarata dari Kerajaan Kosala yang pusat pemerintahannya berada di Ayodhya. Prabu Dasarata memiliki 3 permaisuri bernama: Kosalya, Sumitra, dan Kekayi. Prabu Dasarata tidak kunjung dikaruniai anak dari ketiga permaisurinya, hingga sang raja mengadakan upacara suci agar  segera dikaruniai anak. </string>
+    <string name="dua">Tak lama kemudian ketiga permaisuri tersebut hamil. Lalu Kosalya melahirkan anak lelaki pertama Raja Dasarata yang diberi nama Rama. Kemudian disusul oleh Sumitra yang melahirkan Laksmana dan Satrugna, dan Kekayi yang melahirkan Bharata.
+</string>
+    <string name="tiga">Pada suatu hari, guru dari Rama dan Laksmana mengajak mereka untuk mengikuti sayembara di Kerajaan Wideha, dimana wilayah tersebut merupakan tempat Dewi Shinta. Raja Janaka mengadakan sayembara agar dapat meminang putrinya.</string>
+    <string name="empat">Siapapun yang dapat mengangkat busur ini maka ia dapat meminang putriku. Busur ini bukan busur biasa melainkan busur sakti peninggalan Dewa Siwa yang diturunkan ke bumi</string>
+    <string name="janaka">Raja Janaka:</string>
+    <string name="lima">Ketika semua orang gagal mengangkat busur tersebut, Rama dengan mudahnya mengambil busur dan menarik talinya dengan sempurna. Kemudian Rama dan Shinta mengadakan pernikahan mereka di tempat. Setelah acara pernikahan selesai, rombongan Rama kemudian pulang menuju Kerajaan Kosala dengan membawa Shinta.</string>
+    <string name="title_activity_stage2benar">stage2benar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="-200dp"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/grass" />
+
+    <ImageView
+        android:id="@+id/imageView37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-270dp"
+        android:scaleY="1.2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:srcCompat="@drawable/flowernew" />
+
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="133dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView6"
+        app:srcCompat="@drawable/logonewnew" />
+
+    <EditText
+        android:id="@+id/inputtext"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="316dp"
+        android:background="@drawable/roundbutton"
+        android:ems="10"
+        android:gravity="center_horizontal|center_vertical"
+        android:hint="Masukkan Nama"
+        android:inputType="textPersonName"
+        android:textColor="@color/black"
+        android:textColorHint="#602e3b"
+        app:layout_constraintEnd_toEndOf="@+id/imageView6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView27" />
+
+    <ImageView
+        android:id="@+id/imageView36"
+        android:layout_width="250dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputtext"
+        app:srcCompat="@drawable/alert" />
+
+    <ImageView
+        android:id="@+id/btn_send"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="547dp"
+        android:onClick="MoveLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView6"
+        app:srcCompat="@drawable/start" />
+</androidx.constraintlayout.widget.ConstraintLayout>

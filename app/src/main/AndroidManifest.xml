@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project">
+        <activity
+            android:name=".kekayicard"
+            android:exported="true" />
+        <activity
+            android:name=".bharatacard"
+            android:exported="true" />
+        <activity
+            android:name=".menucards4"
+            android:exported="true" />
+        <activity
+            android:name=".menu4"
+            android:exported="true" />
+        <activity
+            android:name=".janakacard"
+            android:exported="true" />
+        <activity
+            android:name=".dasaratacard"
+            android:exported="true" />
+        <activity
+            android:name=".laksmanacard"
+            android:exported="true" />
+        <activity
+            android:name=".kosalyacard"
+            android:exported="true" />
+        <activity
+            android:name=".sumitracard"
+            android:exported="true" />
+        <activity
+            android:name=".ramacard"
+            android:exported="true" />
+        <activity
+            android:name=".stage1benarselanjutnya"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_11"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_10"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_9"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_8"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_7"
+            android:exported="true" />
+        <activity
+            android:name=".stage3unlockedcard"
+            android:exported="true" />
+        <activity
+            android:name=".menucards3"
+            android:exported="true" />
+        <activity
+            android:name=".stage2unlockedcard"
+            android:exported="true" />
+        <activity
+            android:name=".menucards2"
+            android:exported="true" />
+        <activity
+            android:name=".stage1unlockedcard"
+            android:exported="true" />
+        <activity
+            android:name=".stage3salah"
+            android:exported="true" />
+        <activity
+            android:name=".stage3benar"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_15"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_14"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_13"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_12"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_11"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_10"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_9"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_8"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_7"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_6"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_5"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_4"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_3"
+            android:exported="true" />
+        <activity
+            android:name=".stage3_2"
+            android:exported="true" />
+        <activity
+            android:name=".stage3"
+            android:exported="true" />
+        <activity
+            android:name=".menu3"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_9"
+            android:exported="true" />
+        <activity
+            android:name=".stage2salah"
+            android:exported="true" />
+        <activity
+            android:name=".stage2benar"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_8"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_7"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_6"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_5"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_4"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_3"
+            android:exported="true" />
+        <activity
+            android:name=".stage2_2"
+            android:exported="true" />
+        <activity
+            android:name=".stage2"
+            android:exported="true" />
+        <activity
+            android:name=".shintacard"
+            android:exported="true" />
+        <activity
+            android:name=".Menucards1"
+            android:exported="true" />
+        <activity
+            android:name=".menu2"
+            android:exported="true" />
+        <activity
+            android:name=".stage1salah"
+            android:exported="true" />
+        <activity
+            android:name=".stage1benar"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_6"
+            android:exported="true" />
+        <activity
+            android:name=".stage1_5"
+            android:exported="true" />
+        <activity
+            android:name=".Stage1_4"
+            android:exported="true" />
+        <activity
+            android:name=".Stage1_3"
+            android:exported="true" />
+        <activity
+            android:name=".Stage1_2"
+            android:exported="true" />
+        <activity
+            android:name=".Stage1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menu"
+            android:exported="true" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
