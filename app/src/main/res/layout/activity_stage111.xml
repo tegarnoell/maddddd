@@ -24,7 +24,7 @@
             app:srcCompat="@drawable/kuis" />
 
         <ImageView
-            android:id="@+id/imageView9"
+            android:id="@+id/imageViewchap2ter"
             android:layout_width="300dp"
             android:layout_height="80dp"
             android:layout_marginStart="26dp"
@@ -42,7 +42,7 @@
             android:layout_marginTop="88dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/imageView9"
+            app:layout_constraintTop_toTopOf="@+id/imageViewchap2ter"
             app:srcCompat="@drawable/siluet" />
 
         <LinearLayout
@@ -88,7 +88,7 @@
                     android:layout_weight="1"
                     android:onClick="MoveLayout"
                     android:padding="5dp"
-                    app:srcCompat="@drawable/chap2pil3"
+                    app:srcCompat="@drawable/chap2pil3rev1"
                     tools:layout_editor_absoluteX="33dp"
                     tools:layout_editor_absoluteY="628dp" />
 
